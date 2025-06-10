@@ -10,7 +10,7 @@ A lightweight, zero-dependency, custom-built cron job scheduler in Go — inspir
 ### 📦 Installation
 
 ```bash
-go get github.com/itz-1411/gocron
+go get github.com/testdrivenhuman/gocron
 ```
 
 
@@ -19,7 +19,7 @@ go get github.com/itz-1411/gocron
 ### 📄 Import
 
 ```
-import "github.com/itz-1411/gocron/cron"
+import "github.com/testdrivenhuman/gocron/cron"
 ```
 
 ### 🛠️ Usage
@@ -29,7 +29,7 @@ package main
 
 import (
     "fmt"
-    "github.com/itz-1411/gocron/cron"
+    "github.com/testdrivenhuman/gocron/cron"
 )
 
 func main() {
@@ -100,7 +100,7 @@ Feel free to contribute by submitting issues, feature requests, or PRs!
 To contribute:
 
 #### Fork and clone the repo
-```git clone https://github.com/itz-1411/gocron.git```
+```git clone https://github.com/testdrivenhuman/gocron.git```
 
 #### Create a branch
 ```git checkout -b feature/some-feature```
@@ -116,7 +116,7 @@ To contribute:
 
 ## 📃 License
 
-MIT License © itz-1411
+MIT License © testdrivenhuman
 <br>
 <br>
 
